@@ -1,6 +1,6 @@
 # python-challenge
 
-I've create a Python script that analyzes the records to calculate each of the following values:
+I've created a Python script that analyzes the records to calculate each of the following values:
 
 The total number of months included in the dataset
 
